@@ -2,3 +2,4 @@
 /lottery-react/node_modules/
 *.idea*
 *.DS_Store*
+/lottery-updated/node_modules/
