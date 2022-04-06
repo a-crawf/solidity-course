@@ -1,6 +1,4 @@
-/lottery/node_modules/
-/lottery-react/node_modules/
 *.idea*
 *.DS_Store*
-/lottery-updated/node_modules/
-/kickstart/node_modules/
+*node_modules*
+/kickstart-react/.next/
